@@ -1,0 +1,80 @@
+{
+  "aragami.abilities.invisible_start": {
+    "sounds": [
+      "aragami/abilities/invisible_start"
+    ],
+    "category": "player"
+  },
+  "aragami.abilities.mesmerize": {
+    "sounds": [
+      "aragami/abilities/mesmerize"
+    ],
+    "category": "player"
+  },
+  "aragami.abilities.shadow_kill": {
+    "sounds": [
+      "aragami/abilities/shadow_kill"
+    ],
+    "category": "player"
+  },
+  "aragami.abilities.shuriken": {
+    "sounds": [
+      "aragami/abilities/shuriken"
+    ],
+    "category": "player"
+  },
+  "aragami.abilities.throw_warp_strike": {
+    "sounds": [
+      "aragami/abilities/throw_warp_strike"
+    ],
+    "category": "player"
+  },
+  "aragami.abilities.whisper": {
+    "sounds": [
+      "aragami/abilities/whisper"
+    ],
+    "category": "player"
+  },
+  "aragami.abilities.movment.dash1": {
+    "sounds": [
+      "aragami/abilities/movment/dash1"
+    ],
+    "category": "player"
+  },
+  "aragami.abilities.movment.dash2": {
+    "sounds": [
+      "aragami/abilities/movment/dash2"
+    ],
+    "category": "player"
+  },
+  "aragami.abilities.movment.dash3": {
+    "sounds": [
+      "aragami/abilities/movment/dash3"
+    ],
+    "category": "player"
+  },
+  "aragami.abilities.movment.double_jump": {
+    "sounds": [
+      "aragami/abilities/movment/double_jump"
+    ],
+    "category": "player"
+  },
+  "aragami.abilities.movment.roll": {
+    "sounds": [
+      "aragami/abilities/movment/roll"
+    ],
+    "category": "player"
+  },
+  "aragami.shadow_pull.1": {
+    "sounds": [
+      "aragami/shadow_pull/1"
+    ],
+    "category": "player"
+  },
+  "aragami.shadow_pull.2": {
+    "sounds": [
+      "aragami/shadow_pull/2"
+    ],
+    "category": "player"
+  }
+}
